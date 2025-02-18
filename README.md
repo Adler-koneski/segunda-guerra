@@ -1,3 +1,14 @@
+#grupo:
+
+Ramon Molraes https://github.com/RamonPol10/SEGUNDA-GUERRA/blob/main/readme.md
+Luis Ricardo  https://github.com/Ricardogonzaga98/Trabalho-Faculdade/blob/main/README.md
+Matheus Gangini https://github.com/Mathhp21/Trabalho/blob/main/readme.md
+Igor Leandro Matins de Souza https://github.com/igao009/projeto_Segundaguerramundial?tab=readme-ov-file#projeto_segundaguerramundial
+
+
+
+
+
 # projeto_segunda_guerra 
 
 
